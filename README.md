@@ -12,7 +12,7 @@ This project is to improve my data analysis skills and data presentation skills.
 ### Instalation
 - **Install Required Python Modules**
 ``` 
-git clone https://github.com/10acad-group3/speech_recognition
-cd speech_recognition
+git clone https://github.com/deadex-ng/chatAnalysis.git
+cd chat_analysis
 pip install -r requirements.txt
 ```

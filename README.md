@@ -13,6 +13,6 @@ This project is to improve my data analysis skills and data presentation skills.
 - **Install Required Python Modules**
 ``` 
 git clone https://github.com/deadex-ng/chatAnalysis.git
-cd chat_analysis
+cd chatAnalysis
 pip install -r requirements.txt
 ```
